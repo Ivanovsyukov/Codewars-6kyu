@@ -1,0 +1,3 @@
+[submodule "new/ClassArray"]
+	path = new/ClassArray
+	url = https://github.com/SashaErkhov/ClassArray.git
